@@ -24,6 +24,12 @@ popularyzacja kryptografii w internecie
 
 ### strony uniwersytetów i grup badawczych
 
+### podcasty
+
+<ul>
+  <li> <a href="https://www.cryptography.fm/" target="_blank">cryptography.fm</a> podcast o kryptografii </li>
+</ul>
+
 ### graficznie
 
 <img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="height: 350px;"/>
