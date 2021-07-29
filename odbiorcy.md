@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: odbiorcy
+permalink: /odbiorcy/
 ---
 
 <h3>
@@ -9,8 +11,9 @@ layout: default
     <a href="{{ site.baseurl }}/pop">marketing</a> &nbsp; &nbsp;
 </h3>
 
-<h1> odbiorcy  </h1>
-<p><b> chcemy dotrzeć do następujących grup: </b></p>
+### odbiorcy
+
+chcemy dotrzeć do następujących grup:
 
 <ul>
     <li> potencjalni pracownicy </li>
@@ -19,3 +22,6 @@ layout: default
     <li> nauczyciele </li>
     <li> świat </li>
 </ul>
+
+
+#### potencjalni pracownicy
