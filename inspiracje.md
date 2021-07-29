@@ -6,12 +6,15 @@ permalink: /inspiracje/
 
 szkice szkice
 
-### momenty
+### istniejące
 
-#### Camille przy barze
+#### strony z zadaniami
 
-<img src="{{ site.baseurl }}/images/camille.gif" onclick="toggle()" alt="Camille" style="width: 350px;"/>
-<img src="{{ site.baseurl }}/images/camille2.gif" alt="Camille2" style="width: 350px;"/>
+<h3>inspiracje</h3>
+<ul>
+  <li> <a href="https://cryptohack.org/" target="_blank">cryptohack</a> platforma do nauki kryptografii </li>
+  <li> <a href="https://cryptopals.com/" target="_blank">cryptopals</a> programistyczne zadania z ktypografii</li>
+</ul>
 
 
 ### napisz
