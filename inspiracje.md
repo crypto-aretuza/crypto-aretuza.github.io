@@ -19,7 +19,7 @@ popularyzacja kryptografii w internecie
   <li> <a href="http://www.deltami.edu.pl/" target="_blank">delta</a> portal popularnonaukowy miesięcznika Delta </li>
 </ul>
 
-### stron uniwersytetów i grup badawczych
+### strony uniwersytetów i grup badawczych
 
 ### graficznie
 
