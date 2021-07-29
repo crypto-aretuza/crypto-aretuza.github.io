@@ -11,7 +11,7 @@ popularyzacja kryptografii w internecie
 <ul>
   <li> <a href="https://cryptohack.org/" target="_blank">cryptohack</a> platforma do nauki kryptografii </li>
   <li> <a href="https://cryptopals.com/" target="_blank">cryptopals</a> programistyczne zadania z ktypografii</li>
-  <li><a href="https://kryptowanie.herokuapp.com/" target="_blank">kryptowanie - aplikacja typu quiz </a></li>
+  <li><a href="https://kryptowanie.herokuapp.com/" target="_blank">kryptowanie</a> aplikacja typu quiz </li>
 </ul>
 
 ### popularyzacja przez pisanie artykułów
