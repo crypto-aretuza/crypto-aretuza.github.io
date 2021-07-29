@@ -19,7 +19,7 @@ popularyzacja kryptografii w internecie
 ### olimpiady i konkursy
 
 <ul>
-  <li> <a href="https://nsucrypto.nsu.ru/" target="_blank">nsucrypto</a>rosyjska olimpiada kryptograficzna </li>
+  <li> <a href="https://nsucrypto.nsu.ru/" target="_blank">nsucrypto</a> rosyjska olimpiada kryptograficzna </li>
 </ul>
 
 ### popularyzacja przez pisanie artykułów
