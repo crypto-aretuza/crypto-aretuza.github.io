@@ -1,7 +1,7 @@
 ---
 layout: page
-title: grafika
-permalink: /grafika/
+title: inspiracje
+permalink: /inspiracje/
 ---
 
 szkice szkice
