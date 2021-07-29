@@ -23,8 +23,8 @@ popularyzacja kryptografii w internecie
 
 ### graficznie
 
-<img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="width: 350px;"/>
-<img src="{{ site.baseurl }}/images/shor.jpg" alt="shor" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="height: 500px;"/>
+<img src="{{ site.baseurl }}/images/shor.jpg" alt="shor" style="height: 500px;"/>
 
 ### napisz
 
