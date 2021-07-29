@@ -21,7 +21,10 @@ popularyzacja kryptografii w internecie
 
 ### stron uniwersytetów i grup badawczych
 
-### blogi
+### graficznie
+
+<img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="width: 350px;"/>
+<img src="{{ site.baseurl }}/images/shor.jpg" alt="shor" style="width: 350px;"/>
 
 ### napisz
 
