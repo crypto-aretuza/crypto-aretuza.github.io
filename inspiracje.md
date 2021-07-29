@@ -26,6 +26,7 @@ popularyzacja kryptografii w internecie
 
 <ul>
   <li> <a href="http://www.deltami.edu.pl/" target="_blank">delta</a> portal popularnonaukowy miesięcznika Delta </li>
+  <li> <a href="http://www.theamazingking.com/" target="_blank">the amazing king</a> stronak z materiałami z krypto </li>
 </ul>
 
 ### strony uniwersytetów i grup badawczych
@@ -48,6 +49,7 @@ popularyzacja kryptografii w internecie
 <ul>
   <li> <a href="https://galois.com/blog/" target="_blank"> blog Galois </a> </li>
   <li> <a href="https://www.cryptologie.net/" target="_blank"> cryptologie.net </a> </li>
+  <li> <a href="  https://cryptomuseum.com/" target="_blank"> cryptomuseum </a> </li>
 </ul>
 
 ### graficznie
