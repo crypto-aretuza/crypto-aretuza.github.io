@@ -152,7 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background-color: white;
+  background-color: $lightGray;;
   padding: 50px 0px;
 }
 
@@ -169,7 +169,7 @@ img {
   width: 100px;
   height: 100px;
   margin-right: 15px;
-  margin-top: - 5px;
+  margin-top: - 20px;
 
   @include mobile {
     float: none;
