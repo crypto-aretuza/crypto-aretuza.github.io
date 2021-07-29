@@ -4,18 +4,24 @@ title: inspiracje
 permalink: /inspiracje/
 ---
 
-szkice szkice
+popularyzacja kryptografii w internecie
 
-### istniejące
+#### strony z kryptograficznymi zadaniami
 
-#### strony z zadaniami
-
-<h3>inspiracje</h3>
 <ul>
   <li> <a href="https://cryptohack.org/" target="_blank">cryptohack</a> platforma do nauki kryptografii </li>
   <li> <a href="https://cryptopals.com/" target="_blank">cryptopals</a> programistyczne zadania z ktypografii</li>
 </ul>
 
+#### popularyzacja przez pisanie artykułów
+
+<ul>
+  <li> <a href="http://www.deltami.edu.pl/" target="_blank">delta</a> portal popularnonaukowy miesięcznika Delta </li>
+</ul>
+
+#### stron uniwersytetów i grup badawczych
+
+#### blogi
 
 ### napisz
 
