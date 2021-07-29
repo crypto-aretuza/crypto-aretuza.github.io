@@ -1,22 +1,25 @@
 ---
-layout: default
+layout: page
+title: zasoby
+permalink: /zasoby/
 ---
+
 
 <h3>
     <a href="{{ site.baseurl }}/odbiorcy">odbiorcy</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/kanaly">kanały</a> &nbsp; &nbsp;
-    <a href="{{ site.baseurl }}/ludzie">zasoby</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/zasoby">zasoby</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/pop">marketing</a> &nbsp; &nbsp;
 </h3>
 
-<h1> potrzebne zasoby: </h1>
+### potrzebne zasoby:
 
 <ul>
     <li> strona internetowa </li>
     <li> serwer / backend  do aplikacji z zadaniami (weryfikacja poprawności odpowiedzi użytkowników) </li>
 </ul>
 
-<h1> określenie odpowiedzialności (role): </h1>
+### określenie odpowiedzialności (role):
 
 <ul>
     <li> opis strategii komunikacji ncbc, weryfikacja czy cele są realizowane </li>

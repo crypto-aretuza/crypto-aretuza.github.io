@@ -1,13 +1,16 @@
 ---
-layout: default
+layout: page
+title: pop
+permalink: /pop/
 ---
 
 <h3>
     <a href="{{ site.baseurl }}/odbiorcy">odbiorcy</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/kanaly">kanały</a> &nbsp; &nbsp;
-    <a href="{{ site.baseurl }}/ludzie">zasoby</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/zasoby">zasoby</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/pop">marketing</a> &nbsp; &nbsp;
 </h3>
 
-<h1> marketing </h1>
-<p><b> czego oczekujemy od działu marketingu </b></p>
+### marketing
+
+czego oczekujemy od działu marketingu

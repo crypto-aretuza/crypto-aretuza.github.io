@@ -1,16 +1,20 @@
 ---
-layout: default
+layout: page
+title: kanaly
+permalink: /kanaly/
 ---
+
 
 <h3>
     <a href="{{ site.baseurl }}/odbiorcy">odbiorcy</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/kanaly">kanały</a> &nbsp; &nbsp;
-    <a href="{{ site.baseurl }}/ludzie">zasoby</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/zasoby">zasoby</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/pop">marketing</a> &nbsp; &nbsp;
 </h3>
 
-<h1> kanały komunikacji </h1>
-<p><b> chcielibyśmy się komunikować następującymi ścieżkami: </b></p>
+### kanały komunikacji
+
+chcielibyśmy się komunikować następującymi kanałami:
 
 <ul>
     <li> zadania programistyczne z kryptografii (studenci, nauczyciele akademicy i szkolni) </li>
