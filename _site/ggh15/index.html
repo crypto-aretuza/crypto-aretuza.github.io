@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>kelpie</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Kryptosystem  GGH15 jest jednym z trzech rozwiązań
+kandydujących na schemat kryptograficznego zaciemniania programów. Jego bezpieczeństwo ma opierać się na trudności problemu
+kratowego LWE.
+
+" />
+    <meta property="og:description" content="Kryptosystem  GGH15 jest jednym z trzech rozwiązań
+kandydujących na schemat kryptograficznego zaciemniania programów. Jego bezpieczeństwo ma opierać się na trudności problemu
+kratowego LWE.
+
+" />
+    
+    <meta name="author" content="kelpie" />
+
+    
+    <meta property="og:title" content="GGH15" />
+    <meta property="twitter:title" content="GGH15" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="kelpie" href="/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://keipie.github.io/images/kelpie.png" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">kelpie</a></h1>
+            <!-- <p class="site-description"></p> -->
+          </div>
+
+          <nav>
+            <a href="/krypto">krypto</a>
+            <a href="/prawda">prawda</a>
+            <a href="/grafika">grafika</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+inlineMath: [['$','$'], ['\\(','\\)']],
+processEscapes: true},
+jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+TeX: {
+extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+equationNumbers: {
+autoNumber: "AMS"
+}
+}
+});
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  CommonHTML: {
+    scale: 80
+  },
+  "HTML-CSS": {
+    scale: 80
+  },
+  NativeMML: {
+    scale: 80
+  },
+  SVG: {
+    scale: 80
+  },
+  PreviewHTML: {
+    scale: 80
+  }
+});
+</script>
+
+
+<article class="post">
+  <h1>GGH15</h1>
+
+  <div class="entry">
+    <p>Kryptosystem <a href="/obf/GGH15/GGH15.pdf" target="_blank"> GGH15</a> jest jednym z trzech rozwiązań
+kandydujących na schemat kryptograficznego zaciemniania programów. Jego bezpieczeństwo ma opierać się na trudności problemu
+kratowego LWE.</p>
+
+<h3 id="problem-lwe">Problem LWE</h3>
+
+<p>Niech $ \mathbb{T} = \mathbb{R}/\mathbb{Z}$ oznacza odcinek [0,1), $\phi$ będzie rozkładem prawdopodobieństwa na $ \mathbb{T}$.
+Niech $s \in \mathbb{Z}_q^n$ będzie ustalonym wektorem. Niech</p>
+
+<ul>
+  <li>$a$ pochodzi z rozkadu jednostajengeo na $\mathbb{Z}_q^n$,</li>
+  <li>$e \in \mathbb{T}$ pochodzi z rozkładu $\phi$,</li>
+  <li>$t = a \cdot s /q + e$, gdzie dzielenie przez $q$ jest homomorfizmem $\mathbb{Z} \rightarrow \mathbb{T}$.</li>
+</ul>
+
+<p>Problem LWE polega na znalezieniu $s$ mając dostęp do dowolnie wielu losowych par $(a,t) \in \mathbb{Z}_q^n \times \mathbb{T}$.</p>
+
+<h3 id="jak-szyfrować-macierze-przy-użyciu-lwe">Jak szyfrować macierze przy użyciu LWE?</h3>
+
+<p>Załóżmy, że zamiast jednego wektora $s \in \mathbb{Z}_q^n$, mamy $n$ takich wektorów $s_j$ tworzących kolumny macierzy $S \in \mathbb{Z}_q^{n \times n}$.
+Wybierzmy losowo z rozkładem jednostajnym $n$ wektorów $a_i$ tworzących wiersze macierz $A \in \mathbb{Z}_q^{n \times n}$, a następnie $n^2$ elementów
+$e$ z rozkładu $\phi$ tworzących macierz $E \in \mathbb{T}^{n \times n}.$ Możemy obliczyć macierz</p>
+
+<script type="math/tex; mode=display">T = A \cdot S + E.</script>
+
+<p>Poszczególne elementy $t_{ij}$ macierzy $T$ są postaci $t_{ij} = a_i \cdot s_j + e_{ij}$. Trudność odkrycia wektorów $s_j$ przy znajomości macierzy $t_{ij}$ i $a_i$
+wynika z trudności problemu LWE. Podobnie znając macierze $T$ i $A$ trudno jest znaleźć macierz $S$. Generalnie skleiliśmy wiele instancji problemu LWE w macierz.</p>
+
+<h3 id="schemat-ggh15">Schemat GGH15</h3>
+
+<p>Pełna nazwa schematu GGH15 brzmi <em>Graph-Induced Multilinear Maps from Lattices</em>. Konstrukcja proponuje zgradowany schemat szyfrowania homorficznego.
+Wykonywane obliczenia reprezentowane są jako graf skierowany. Wierzchołkom grafu przyporządkowywane są jawne macierze. Prywatne elementy można szyfrować
+w odniesieniu do ścieżek w grafie, wykorzystując macierze z wierzchołków.</p>
+
+<p>Dla przykładu rozważmy ścieżkę $u \rightarrow v$, nad którą chcemy zaszyfrować tajną macierz $S$. Niech wierzchołkom $u$ i $v$ odpowiadają maciezrze $A_u$ i $A_v$.
+Używając problemu LWE możemy zaszyfrować $S$ obliczając</p>
+
+<script type="math/tex; mode=display">V = A_v S + E_v.</script>
+
+<p>Załóżmy, że posiadamy pewien tajny parametr $\tau_u$ który pozwala wygenerować macierz $D$ taką, że $D \cdot A_u = V$. Wektor $D$ będzie stanowił szyfrogram maciezry $S$ w odneisieniu do ścieżki $u \rightarrow v$. Zakładając, że problem LWE jest trudny, nie da się odkryć macierzy $S$ znając macierze $V$ i $A_v$. Znajomość macierzy $D$ i $A_u$ pozwala obliczyć $V$, ale nic więcej.</p>
+
+<p>Zauważmy, że mając dwa szyfrogramy nad tą samą ścieżką dysponujemy dwoma równaniami:</p>
+
+<script type="math/tex; mode=display">D_1 A_u = A_v S_1 + E_1, \\
+ D_2 A_u = A_v S_2 + E_2.</script>
+
+<p>Równania te możemy dodać otrzymując</p>
+
+<script type="math/tex; mode=display">(D_1+D_2) A_u = A_v (S_1+S_2) + (E_1+E_2).</script>
+
+<p>czyli szyfrogram sumy $S_1+S_2$ nad tą samą ścieżką. Z łatwością możemy też obliczyć szyfrogram macierzy przeciwnej do $S_1$</p>
+
+<script type="math/tex; mode=display">(- D_1) A_u = A_v (-S_1) + (-E_1).</script>
+
+<p>Nie możemy jednak w ten sposób obliczyć iloczynu szyfrogramów odpowiadających tej samej ścieżce. Możemy to wykonać dla szyfrogramów, które odnoszą się do ścieżek,
+które mają wspólny wierzchołek, będący końcem jednej, a początkiem drugiej. Rozważmy dwie ścieżki $u \rightarrow v$ i $v \rightarrow w$. oraz szyfrogramy względem nich</p>
+
+<script type="math/tex; mode=display">D_1 A_u = A_v S_1 + E_1, \\
+ D_2 A_v = A_w S_2 + E_2.</script>
+
+<p>Mnożąc pierwsze równanie stronami przez $D_2$ i podstawiając drugie równanie otrzymamy:</p>
+
+<script type="math/tex; mode=display">D_2 D_1 A_u = (D_2 A_v) S_1 + D_2 E_1 = (A_w S_2 + E_2) S_1 + D_2 E_1 = A_w (S_2 S_1) + (E_2 S_1 + D_2 E_1)</script>
+
+<p>a więc poprawny szyfrogram macierzy $S_2 S_1$ w odniesieniu do złączonej ścieżki $u \rightarrow w$.</p>
+
+<p>Aby schemat spełniał własności szyfru z gradacją, musimy jeszcze mieć możliwość odszyfrowania macierzy identycznościowej (elementu zerowego). Taka procedura nazywana jest <em>Zero-testem</em>.</p>
+
+<h3 id="obfuskacja">Obfuskacja</h3>
+
+<h3 id="złożoność">Złożoność</h3>
+
+<h3 id="efektywność">Efektywność</h3>
+
+<h3 id="ataki">Ataki</h3>
+
+<h3 id="poprawki">Poprawki</h3>
+
+  </div>
+
+  <div class="date">
+    Written on January  1, 2014
+  </div>
+
+  
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+
+
+
+<a href="https://github.com/keipie"><i class="svg-icon github"></i></a>
+<a href="https://instagram.com/juz.juz"><i class="svg-icon instagram"></i></a>
+
+
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>

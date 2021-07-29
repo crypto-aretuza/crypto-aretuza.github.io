@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>kelpie</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Wyobraź sobie, że opracowałeś nowy, super efektywny algorytm. Działa o wiele lepiej niż wszystkie znane rozwiązania. Oprogramowanie, które stworzyłeś świetnie się sprzedaje, klienci są zachwyceni, a Ty wyjeżdżasz na Bahamy.
+
+" />
+    <meta property="og:description" content="Wyobraź sobie, że opracowałeś nowy, super efektywny algorytm. Działa o wiele lepiej niż wszystkie znane rozwiązania. Oprogramowanie, które stworzyłeś świetnie się sprzedaje, klienci są zachwyceni, a Ty wyjeżdżasz na Bahamy.
+
+" />
+    
+    <meta name="author" content="kelpie" />
+
+    
+    <meta property="og:title" content="Szyfrowanie obliczeń" />
+    <meta property="twitter:title" content="Szyfrowanie obliczeń" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="kelpie" href="/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://keipie.github.io/images/kelpie.png" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">kelpie</a></h1>
+            <!-- <p class="site-description"></p> -->
+          </div>
+
+          <nav>
+            <a href="/krypto">krypto</a>
+            <a href="/prawda">prawda</a>
+            <a href="/grafika">grafika</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+inlineMath: [['$','$'], ['\\(','\\)']],
+processEscapes: true},
+jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+TeX: {
+extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+equationNumbers: {
+autoNumber: "AMS"
+}
+}
+});
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  CommonHTML: {
+    scale: 80
+  },
+  "HTML-CSS": {
+    scale: 80
+  },
+  NativeMML: {
+    scale: 80
+  },
+  SVG: {
+    scale: 80
+  },
+  PreviewHTML: {
+    scale: 80
+  }
+});
+</script>
+
+
+<article class="post">
+  <h1>Szyfrowanie obliczeń</h1>
+
+  <div class="entry">
+    <p>Wyobraź sobie, że opracowałeś nowy, super efektywny algorytm. Działa o wiele lepiej niż wszystkie znane rozwiązania. Oprogramowanie, które stworzyłeś świetnie się sprzedaje, klienci są zachwyceni, a Ty wyjeżdżasz na Bahamy.</p>
+
+<p>Niestety! Po miesiącu sprzedaż drastycznie spada. Kilka innych firm oferuje dokładnie to samo rozwiązanie. Ewidentnie jeden z klientów skopiował algorytm, który mu udostępniłeś. Co gorsza mają o wiele lepszą reklamę. Koniec wakacji - musisz wracać do domu wymyślać nowy produkt. Czy dało się temu zapobiec? Jedno z rozwiązań oferuje nowoczesna kryptologia badająca metody szyfrowania programów. Zaszyfrowany program ma działać dokładnie tak jak zwykły, to znaczy dla tych samych danych wejściowych ma zwracać te same wyniki. Jednak jego kod powinien być niezrozumiały dla użytkownika. Co więcej chcielibyśmy mieć matematyczny dowód na to, że rozszyfrowanie kodu programu jest tak skomplikowane jak pewien znany trudny problem obliczeniowy. Dziedzinę kryptologii zajmującą się szyfrowaniem programów nazywamy <em>obfuskacją</em>.</p>
+
+<h3 id="jak-opisać-program">Jak opisać program?</h3>
+
+<p>Każdy program komputerowy możemy przedstawić jako układ logiczny, składających się z bramek cyfrowych. Układy logiczne można opisywać w sposób matematyczny przez funkcje boolowskie, czyli funkcje postaci $f: \{0,1\}^n \rightarrow \{0,1\}^m$ dla pewnych ustalonych liczb całkowitych $n$ i $m$. Rozważmy układ z rysunku</p>
+
+<center><img src="/obf/images/uklad.png" onclick="toggleadam()" align="center" style="width: 170px;" /></center>
+
+<p>będący złożeniem dwóch bramek logicznych: NOT i AND. Bramce NOT odpowiada funkcja $f_1(a)=1-a$, a bramce AND funkcja $f_2(a,b)=a\cdot b$. Cały układ opisuje funkcja $f$ postaci:</p>
+
+<script type="math/tex; mode=display">f:\{0,1\}^2 \rightarrow \{0,1\} \\ f(a,b) = f_2(f_1 (a),b) = (1-a) \cdot b.</script>
+
+<h3 id="zmiana-postaci-programu">Zmiana postaci programu</h3>
+
+<p>Twierdzenie Barringtona zapewnia, że każdy układ logiczny można przedstawić jako iloczyn macierzy. Na przykład funkcja $f(a,b) = a \cdot b$ może być reprezentowana jako iloczyn macierzy w następujący sposób:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{bmatrix} 1 & a \end{bmatrix} \cdot \begin{bmatrix} 1 & 0 \\ 0 & b \end{bmatrix} = \begin{bmatrix} 1 & a \cdot b \end{bmatrix}. %]]></script>
+
+<p>Wynik działania funkcji przechowywany jest na drugiej współrzędnej wektora iloczynu. Zauważmy, że w naszej reprezentacji jednej zmiennej odpowiada jedna macierz. Chcemy aby użytkownik mógł wykonać funkcję na dowolnych danych wejściowych, zatem musimy dać mu macierze odpowiadające dowolnym wartościom zmiennych $a$ i $b$. Dlatego publikujemy pary macierzy:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\left( M_{a=0}=\begin{bmatrix} 1 & 0 \end{bmatrix}, M_{a=1}=\begin{bmatrix} 1 & 1 \end{bmatrix}\right), \left( M_{b=0}=\begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, M_{b=1}=\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} \right). %]]></script>
+
+<p>Kiedy użytkownik chce wykonać program na zmiennych $a=1$ i $b=0$ wybiera macierze $M_{a=1}$ i $M_{b=0}$ i oblicza ich iloczyn</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{bmatrix} 1 & 1 \end{bmatrix} \cdot \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} = \begin{bmatrix} 1 & 0 \end{bmatrix}, %]]></script>
+
+<p>otrzymując poprawny wynik. Z funkcją $f_1(a)=1-a$ jest jeszcze łatwiej, ponieważ zależy tylko od jednej zmiennej wejściowej. Obliczenie będzie wyglądało następująco:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{bmatrix} 1 & a \end{bmatrix} \cdot \begin{bmatrix} 1 & 1 \\ 0 & -1 \end{bmatrix} = \begin{bmatrix} 1 & (1-a) \end{bmatrix}. %]]></script>
+
+<p>W tym wypadku druga macierz jest stała (nie zależy od żadnej zmiennej). Reprezentacja funkcji $f$ jest połączeniem reprezentacji $f_1$ i $f_2$:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{bmatrix} 1 & a \end{bmatrix} \cdot \begin{bmatrix} 1 & 0 \\ 1 & -1 \end{bmatrix} \cdot \begin{bmatrix} 1 & 0 \\ 0 & b \end{bmatrix} = \begin{bmatrix} 1 & (1-a) \end{bmatrix} \cdot \begin{bmatrix} 1 & 0 \\ 0 & b \end{bmatrix} = \begin{bmatrix} 1 & (1-a) \cdot b \end{bmatrix}. %]]></script>
+
+<p>Aby użytkownik mógł wykonać funkcję $f$ na dowolnych danych wejściowych udostępniamy mu pary macierzy:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\left( M_{a=0}=\begin{bmatrix} 1 & 1 \end{bmatrix}, M_{a=1}=\begin{bmatrix} 1 & 0 \end{bmatrix}\right), \left( M_{b=0}=\begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, M_{b=1}=\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} \right). %]]></script>
+
+<p>Zauważmy, że w macierzach odpowiadających zmiennej $a$ jest zakodowane zaprzeczenie.</p>
+
+<h3 id="zaszyfrowanie-programu">Zaszyfrowanie programu</h3>
+
+<p>Program macierzowy poprawnie oblicza zadaną funkcję, ale żeby był nieczytelny trzeba zaszyfrować tworzące go macierze. W wyniku szyfrowania chcemy otrzymać macierze, których elementy nie zdradzają jakie obliczenie jest wykonywane</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}  \stackrel{encrypt}{\rightarrow} \begin{bmatrix} !@\star!\circ & \star@@\#! \\ \circ!!@\star & @\dot!\star!@! \end{bmatrix}. %]]></script>
+
+<p>Do tego celu musimy użyć specjalnego szyfrowania, które zapewni nam dwie kluczowe własności. Po pierwsze licząc iloczyn zaszyfrowanych macierzy, chcemy otrzymać szyfrogram iloczynu</p>
+
+<script type="math/tex; mode=display">encrypt(M_a) \cdot encrypt(M_b) = encrypt(M_a \cdot M_b).</script>
+
+<p>Dzięki tej własności wymnażając zaszyfrowane macierze dostaniemy poprawne wyniki. Szyfry zachowujące mnożenie nazywamy <em>homomorficznymi</em> ze względu na mnożenie. Po drugie chcemy mieć pewność, że wynik programu będzie możliwy do odszyfrowania, ale poszczególne macierze nie. Taką funkcjonalność otrzymamy przyporządkowując szyfrogramom stopnie. Z każdym wykonywanym mnożeniem zwiększa się stopień szyfrogramu. Dopiero po wymnożeniu wszystkich macierzy - i osiągnięciu maksymalnego stopnia - wynikowa macierz może zostać odszyfrowana. Szyfry przyporządkowujące szyfrogramom stopnie nazywamy  <em>szyframi z gradacją</em>.</p>
+
+<p>Istnieje kilka szyfrów homomorficznych z gradacją na przykład CLT13, GGH13 i GGH15. Niestety działają  bardzo wolno, a zaszyfrowane macierze mają bardzo duże rozmiary. Kryptologowie z niecierpliwością czekają na nowe konstrukcje tego typu szyfrów. Może Ty taki wymyślisz?</p>
+
+  </div>
+
+  <div class="date">
+    Written on January  1, 2010
+  </div>
+
+  
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+
+
+
+<a href="https://github.com/keipie"><i class="svg-icon github"></i></a>
+<a href="https://instagram.com/juz.juz"><i class="svg-icon instagram"></i></a>
+
+
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>
