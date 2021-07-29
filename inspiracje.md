@@ -31,6 +31,12 @@ popularyzacja kryptografii w internecie
   <li> <a href="  https://building-better-systems.simplecast.com/" target="_blank">building-better-systems</a> Galois o metodach formalnych </li>
 </ul>
 
+### kursy z crypto online
+
+<ul>
+  <li> <a href="https://www.coursera.org/learn/crypto" target="_blank">coursera cryptography I </a> kursy z krypto na Courserze (Stanford University) </li>
+</ul>
+
 ### graficznie
 
 <img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="height: 350px;"/>
