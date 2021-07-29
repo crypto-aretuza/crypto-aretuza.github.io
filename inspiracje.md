@@ -26,7 +26,7 @@ popularyzacja kryptografii w internecie
 
 <ul>
   <li> <a href="http://www.deltami.edu.pl/" target="_blank">delta</a> portal popularnonaukowy miesięcznika Delta </li>
-  <li> <a href="http://www.theamazingking.com/" target="_blank">the amazing king</a> stronak z materiałami z krypto </li>
+  <li> <a href="http://www.theamazingking.com/" target="_blank">the amazing king</a> strona z materiałami z krypto </li>
 </ul>
 
 ### strony uniwersytetów i grup badawczych
