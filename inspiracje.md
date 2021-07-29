@@ -16,6 +16,12 @@ popularyzacja kryptografii w internecie
   <li><a href="https://kryptowanie.herokuapp.com/" target="_blank">kryptowanie</a> aplikacja typu quiz </li>
 </ul>
 
+### olimpiady i konkursy
+
+<ul>
+  <li> <a href="https://nsucrypto.nsu.ru/" target="_blank">nsucrypto</a>rosyjska olimpiada kryptograficzna </li>
+</ul>
+
 ### popularyzacja przez pisanie artykułów
 
 <ul>
