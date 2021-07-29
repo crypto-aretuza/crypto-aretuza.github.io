@@ -28,6 +28,7 @@ popularyzacja kryptografii w internecie
 
 <ul>
   <li> <a href="https://www.cryptography.fm/" target="_blank">cryptography.fm</a> podcast o kryptografii </li>
+  <li> <a href="  https://building-better-systems.simplecast.com/" target="_blank">building-better-systems</a> Galois o metodach formalnych </li>
 </ul>
 
 ### graficznie
