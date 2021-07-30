@@ -24,4 +24,27 @@ chcemy dotrzeć do następujących grup:
 </ul>
 
 
-#### potencjalni pracownicy
+### potencjalni pracownicy
+
+profil odbiorcy:
+
+ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych
+
+wartość dla nas:
+<ul>
+    <li> ciekawi ludzie dowiadują się o możliwości pracy u nas </li>
+    <li> większy rynek, większy wybór </li>
+</ul>
+
+wartość dla nich:
+<ul>
+    <li> dowiadują się o możliwości ciekawej pracy </li>
+</ul>
+
+### studenci
+
+### licealiści
+
+### nauczyciele
+
+#### świat
