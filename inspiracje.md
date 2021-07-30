@@ -6,7 +6,7 @@ permalink: /inspiracje/
 
 ## inspiracje
 
-popularyzacja kryptografii w internecie
+popularyzacja kryptografii w internecie i tu i tam
 
 ### strony z kryptograficznymi zadaniami
 
