@@ -27,5 +27,6 @@ jak chcielibyśmy być postrzegani w sieci:
 ### teraz
 
 <ul>
-    <li><a href="https://ncbc.wp.mil.pl/pl/" target="_blank">strona internetow jednostki </a></li>
+    <li><a href="https://ncbc.wp.mil.pl/pl/" target="_blank"> strona internetow jednostki </a></li>
+    <li><a href="https://twitter.com/CYBER_MIL_PL?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"> tweeter </a></li>
 </ul>
