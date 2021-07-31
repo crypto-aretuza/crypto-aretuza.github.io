@@ -5,6 +5,7 @@ permalink: /odbiorcy/
 ---
 
 <h3>
+    <a href="{{ site.baseurl }}/wizerunek">wizerunek</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/odbiorcy">odbiorcy</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/kanaly">kanały</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/zasoby">zasoby</a> &nbsp; &nbsp;

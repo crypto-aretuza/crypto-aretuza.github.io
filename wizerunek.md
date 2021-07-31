@@ -1,7 +1,7 @@
 ---
 layout: page
-title: pop
-permalink: /pop/
+title: wizerunek
+permalink: /wizerunek/
 ---
 
 <h3>
@@ -12,6 +12,14 @@ permalink: /pop/
     <a href="{{ site.baseurl }}/pop">marketing</a> &nbsp; &nbsp;
 </h3>
 
-### marketing
+### wizerunek
 
-czego oczekujemy od działu marketingu
+jak chcielibyśmy być postrzegani w sieci:
+
+<ul>
+    <li> nowocześni </li>
+    <li> godni zaufania </li>
+    <li> na wysokim poziomie technologicznym </li>
+    <li> ambitni </li>
+    <li> zorientowani w najnowszych wynikach (świeżość) </li>
+</ul>
