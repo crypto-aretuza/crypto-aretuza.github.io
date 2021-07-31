@@ -26,9 +26,7 @@ chcemy dotrzeć do następujących grup:
 
 ### potencjalni pracownicy
 
-profil odbiorcy:
-
-ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych
+**profil odbiorcy:** ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych.
 
 wartość dla nas:
 <ul>
