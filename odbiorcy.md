@@ -27,7 +27,7 @@ chcemy dotrzeć do następujących grup:
 
 ### potencjalni pracownicy
 
-**profil odbiorcy:** ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych.
+ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych.
 
 wartość dla nas:
 <ul>
@@ -38,9 +38,39 @@ wartość dla nas:
 wartość dla nich:
 <ul>
     <li> dowiadują się o możliwości ciekawej pracy </li>
+    <li> wiedząc czym się zajmujemy, mogą zdecydować czy to ich interesuje </li>
+</ul>
+
+kanały komunikacji z nimi:
+<ul>
+    <li> strona internetowa popularyzująca kryptografię </li>
+    <li> strona internetowa z zadaniami, które trzeba zrobić przed rekrutacją </li>
 </ul>
 
 ### studenci
+
+studenci kierunków matematycznych, informatycznych, telekomunikacyjnych.
+
+wartość dla nas:
+<ul>
+    <li> wzrost zainteresowania kryptogarfią w Polsce </li>
+    <li> możliwość współpracy z ośrodkami naukowymi i badawczymi </li>
+    <li> możliwość współtworzenia programu nauczania na dobrych uczelniach (udostępnianie materiałów) </li>
+    <li> możliwość zatrudnienia pracowników z większą wiedzą na temat kryptografii </li>
+    <li> ciekawi ludzie dowiadują się o możliwości pracy u nas </li>
+</ul>
+
+wartość dla nich:
+<ul>
+    <li> wysokiej jakości materiały do nauki kryptografii w języku polskim </li>
+    <li> dowiadują się o możliwości ciekawej pracy </li>
+</ul>
+
+kanały komunikacji z nimi:
+<ul>
+    <li> strona internetowa popularyzująca kryptografię </li>
+    <li> strona internetowa z zadaniami, które trzeba zrobić przed rekrutacją </li>
+</ul>
 
 ### licealiści
 
