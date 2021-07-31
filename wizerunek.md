@@ -23,3 +23,9 @@ jak chcielibyśmy być postrzegani w sieci:
     <li> ambitni </li>
     <li> zorientowani w najnowszych wynikach (świeżość) </li>
 </ul>
+
+### teraz
+
+<ul>
+    <li><a href="https://ncbc.wp.mil.pl/pl/" target="_blank">strona internetow jednostki </a></li>
+</ul>
