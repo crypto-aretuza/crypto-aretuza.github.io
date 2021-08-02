@@ -4,6 +4,7 @@ title: potencjalni pracownicy
 ---
 
 ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych.
+reaizacja celów: pozyskanie wykwalifikowanych pracowników.
 
 wartość dla nas:
 <ul>
