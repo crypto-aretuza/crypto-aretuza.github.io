@@ -18,6 +18,7 @@ permalink: /zasoby/
 <ul>
     <li> strona internetowa </li>
     <li> serwer / backend  do aplikacji z zadaniami (weryfikacja poprawności odpowiedzi użytkowników) </li>
+    <li> zabezpieczenie finansowania (nagrody na hackatonach, w konkursach, materiały maretongowe etc.) </li>
 </ul>
 
 ### określenie odpowiedzialności (role):
