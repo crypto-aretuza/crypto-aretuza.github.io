@@ -26,5 +26,6 @@ chcielibyśmy się komunikować następującymi metodami:
 dodatkowe pomysły:
 
 <ul>
-    <li> publikacja otwartych problemów z nagrodami </li>
+    <li> publikacja otwartych problemów (z nagrodami za rozwiązanie?) </li>
+    <li> publikacja tematów prac, z których można by robić magisterki w kooperacji z nami </li>
 </ul>
