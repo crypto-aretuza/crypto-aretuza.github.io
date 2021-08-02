@@ -4,6 +4,9 @@ title: studenci
 ---
 
 studenci kierunków matematycznych, informatycznych, telekomunikacyjnych.
+komunikacja głównie za pomocą strony internetowej.
+realizacja celów: pozyskanie wykwalifikowanych pracowników, współpraca z uczelniami i ośrodkami badawczymi, wzrost zainteresowania kryptografią w Polsce
+oraz rozpoznawalność.
 
 wartość dla nas:
 <ul>
