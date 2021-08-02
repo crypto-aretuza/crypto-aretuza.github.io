@@ -152,6 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 0px;
+  border-bottom: 1px solid $lightGray;
   background-color: white;
   padding: 50px 0px;
 }
@@ -247,6 +248,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  font-size: 16px;
 }
 
 .posts > .post:last-child {
