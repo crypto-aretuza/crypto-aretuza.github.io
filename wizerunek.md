@@ -9,7 +9,7 @@ permalink: /wizerunek/
     <a href="{{ site.baseurl }}/odbiorcy">odbiorcy</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/kanaly">kanały</a> &nbsp; &nbsp;
     <a href="{{ site.baseurl }}/zasoby">zasoby</a> &nbsp; &nbsp;
-    <a href="{{ site.baseurl }}/pop">marketing</a> &nbsp; &nbsp;
+    <a href="{{ site.baseurl }}/marketing">marketing</a> &nbsp; &nbsp;
 </h3>
 
 ### wizerunek
