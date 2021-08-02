@@ -15,10 +15,16 @@ permalink: /kanaly/
 
 ### kanały komunikacji
 
-chcielibyśmy się komunikować następującymi kanałami:
+chcielibyśmy się komunikować następującymi metodami:
 
 <ul>
     <li> zadania programistyczne z kryptografii (studenci, nauczyciele akademicy i szkolni) </li>
     <li> artykuły popularnonaukowe (studenci, licealiści) </li>
     <li> twitter (świat) </li>
+</ul>
+
+dodatkowe pomysły:
+
+<ul>
+    <li> publikacja otwartych problemów z nagrodami </li>
 </ul>
