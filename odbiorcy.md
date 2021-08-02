@@ -55,7 +55,6 @@ wartość dla nas:
 <ul>
     <li> wzrost zainteresowania kryptogarfią w Polsce </li>
     <li> możliwość współpracy z ośrodkami naukowymi i badawczymi </li>
-    <li> możliwość współtworzenia programu nauczania na dobrych uczelniach (udostępnianie materiałów) </li>
     <li> możliwość zatrudnienia pracowników z większą wiedzą na temat kryptografii </li>
     <li> ciekawi ludzie dowiadują się o możliwości pracy u nas </li>
 </ul>
@@ -74,6 +73,17 @@ kanały komunikacji z nimi:
 
 ### licealiści
 
-### nauczyciele
+### nauczyciele akademiccy
+
+wartość dla nas:
+<ul>
+    <li> pośredni wpływ na program na uczelniach (udostępnianie materiałów, stworzenie skryptu) </li>
+</ul>
+
+wartość dla nich:
+<ul>
+    <li> dostęp do materiałów dydaktycznych wysokiej jakości </li>
+    <li> możliwość wykorzystania darmowych materiałów (np. zadań programistycznych na laboratoria) </li>
+</ul>
 
 #### świat
