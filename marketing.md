@@ -18,4 +18,4 @@ czego oczekujemy od działu marketingu
 
 czy moglibyśmy mieć podstronę w ramach istniejącego portalu?
 podstrona o strukturze bloga? podstrona z zadaniami (typu cryptopals, cryptohack)?
-kto miałby tę podstronę stworzyć? czy możemy dostarczyć projekt strony i treści merytoryczne, a ktoś po stronie marketingu zajmie się impleentacją?
+kto miałby tę podstronę stworzyć? czy możemy dostarczyć projekt strony i treści merytoryczne, a ktoś po stronie marketingu zajmie się implementacją?
