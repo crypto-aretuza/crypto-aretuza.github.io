@@ -6,7 +6,7 @@ permalink: /inspiracje/
 
 ## inspiracje
 
-popularyzacja kryptografii w internecie i tu i tam
+popularyzacja kryptografii w internecie
 
 ### strony z kryptograficznymi zadaniami
 
@@ -27,6 +27,7 @@ popularyzacja kryptografii w internecie i tu i tam
 <ul>
   <li> <a href="http://www.deltami.edu.pl/" target="_blank">delta</a> portal popularnonaukowy miesięcznika Delta </li>
   <li> <a href="http://www.theamazingking.com/" target="_blank">the amazing king</a> strona z materiałami z krypto </li>
+  <li> <a href="  https://cryptomuseum.com/" target="_blank"> cryptomuseum </a> </li>
 </ul>
 
 ### strony uniwersytetów i grup badawczych
@@ -49,7 +50,8 @@ popularyzacja kryptografii w internecie i tu i tam
 <ul>
   <li> <a href="https://galois.com/blog/" target="_blank"> blog Galois </a> </li>
   <li> <a href="https://www.cryptologie.net/" target="_blank"> cryptologie.net </a> </li>
-  <li> <a href="  https://cryptomuseum.com/" target="_blank"> cryptomuseum </a> </li>
+  <li> <a href="  https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta </a> </li>
+  <li> <a href="  https://www.imperialviolet.org/" target="_blank"> blog Adama Langley'a </a> </li>
 </ul>
 
 ### graficznie
