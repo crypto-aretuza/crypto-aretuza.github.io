@@ -3,7 +3,7 @@ layout: post
 title: nauczyciele akademiccy
 ---
 
-nauczyciele i wykładowcy na uczelniach  mateamtycznych, informatycznych, technicznych.
+nauczyciele i wykładowcy na uczelniach  matematycznych, informatycznych, technicznych.
 realizacja celów: współpraca z uczelniami i ośrodkami badawczymi, wzrost zainteresowania kryptografią w Polsce, budowanie rozpoznawalności.
 
 wartość dla nas:
