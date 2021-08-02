@@ -4,7 +4,8 @@ title: potencjalni pracownicy
 ---
 
 ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych.
-reaizacja celów: pozyskanie wykwalifikowanych pracowników.
+komunikacja głównie za pomocą strony internetowej (zadania przed rekrutacją?).
+realizacja celów: pozyskanie wykwalifikowanych pracowników.
 
 wartość dla nas:
 <ul>
