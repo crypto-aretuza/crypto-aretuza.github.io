@@ -31,6 +31,7 @@ dodatkowe pomysły:
     <li> opracowanie zestawu kompetencji krypto dla kierunków technicznych - docelowo forma corocznego biuletynu (rektorzy uczelni, ośrodki akademickie) </li>
     <li> certyfikacja kompetencji krypto - opracowanie kursu, systemu egzaminów (patrz kursy/certfikaty Cisco) </li>
     <li> stworzenie olimpiady krypto (długofalowy) </li>
+    <li> udostępnienie listy publikacji pracowników </li>
 </ul>
 
 udział w wydarzeniach:
