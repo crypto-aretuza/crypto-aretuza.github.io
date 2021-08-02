@@ -1,7 +1,7 @@
 ---
 layout: page
-title: pop
-permalink: /pop/
+title: marketing
+permalink: /marketing/
 ---
 
 <h3>
