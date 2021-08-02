@@ -29,3 +29,8 @@ dodatkowe pomysły:
     <li> publikacja otwartych problemów (z nagrodami za rozwiązanie?) </li>
     <li> publikacja tematów prac, z których można by robić magisterki w kooperacji z nami </li>
 </ul>
+
+udział w wydarzeniach:
+<ul>
+    <li> hackatony - opracowywanie zadań kryptograficznych, funodwanie nagród (profesjonaliści cyber) </li>
+</ul>
