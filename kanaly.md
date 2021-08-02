@@ -23,14 +23,14 @@ chcielibyśmy się komunikować następującymi metodami:
     <li> twitter (świat) </li>
 </ul>
 
-dodatkowe pomysły:
+dodatkowe pomysły (cele długoterminowe):
 
 <ul>
     <li> publikacja otwartych problemów (z nagrodami za rozwiązanie?) </li>
     <li> publikacja tematów prac, z których można by robić magisterki w kooperacji z nami </li>
     <li> opracowanie zestawu kompetencji krypto dla kierunków technicznych - docelowo forma corocznego biuletynu (rektorzy uczelni, ośrodki akademickie) </li>
     <li> certyfikacja kompetencji krypto - opracowanie kursu, systemu egzaminów (patrz kursy/certfikaty Cisco) </li>
-    <li> stworzenie olimpiady krypto (długofalowy) </li>
+    <li> stworzenie olimpiady krypto </li>
     <li> udostępnienie listy publikacji pracowników </li>
 </ul>
 
