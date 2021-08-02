@@ -54,6 +54,12 @@ popularyzacja kryptografii w internecie
   <li> <a href="  https://www.imperialviolet.org/" target="_blank"> blog Adama Langley'a </a> </li>
 </ul>
 
+### certyfikacja
+
+<ul>
+  <li> WCET - Wireless Communication Engineering Technologies </li>
+</ul>
+
 ### graficznie
 
 <img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="height: 350px;"/>
