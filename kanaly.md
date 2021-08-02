@@ -28,6 +28,7 @@ dodatkowe pomysły:
 <ul>
     <li> publikacja otwartych problemów (z nagrodami za rozwiązanie?) </li>
     <li> publikacja tematów prac, z których można by robić magisterki w kooperacji z nami </li>
+    <li> opracowanie zestawu kompetencji krypto dla kierunków technicznych - docelowo forma corocznego biuletynu (rektorzy uczelni, ośrodki akademickie) </li>
     <li> certyfikacja kompetencji krypto - opracowanie kursu, systemu egzaminów (patrz kursy/certfikaty Cisco) </li>
 </ul>
 
