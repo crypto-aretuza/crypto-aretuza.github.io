@@ -3,6 +3,8 @@ layout: post
 title: nauczyciele akademiccy
 ---
 
+nauczyciele i wykładowcy na uczelniach  mateamtycznych, informatycznych, technicznych.
+
 wartość dla nas:
 <ul>
     <li> pośredni wpływ na program na uczelniach (udostępnianie materiałów, stworzenie skryptu) </li>
