@@ -1,7 +1,7 @@
 ---
 layout: post
-title: licealisci
+title: Licealiści
 ---
 
-uczniowie szkół ponadpodstawowych. komunikacja przez stronę internetową (zadania, konkursy).
-realizacja celów: wzrost zainteresowania kryptografią w Polsce oraz budowanie rozpoznawalności.
+Uczniowie szkół ponadpodstawowych. Komunikacja przez stronę internetową (zadania, konkursy).
+Realizacja celów: wzrost zainteresowania kryptografią w Polsce oraz budowanie rozpoznawalności.

@@ -1,19 +1,21 @@
 ---
 layout: post
-title: nauczyciele akademiccy
+title: Nauczyciele akademiccy
 ---
 
-nauczyciele i wykładowcy na uczelniach  matematycznych, informatycznych, technicznych.
-komunikacja głównie za pomocą strony internetowej (udostępnianie materiałów dydaktycznych).
-realizacja celów: współpraca z uczelniami i ośrodkami badawczymi, wzrost zainteresowania kryptografią w Polsce, budowanie rozpoznawalności.
+Nauczyciele i wykładowcy na uczelniach matematycznych, informatycznych, technicznych.
+Komunikacja głównie za pomocą strony internetowej (udostępnianie materiałów dydaktycznych).
+Realizacja celów: współpraca z uczelniami i ośrodkami badawczymi, wzrost zainteresowania kryptografią w Polsce, budowanie rozpoznawalności.
 
-wartość dla nas:
+Wartość dla nas:
+
 <ul>
-    <li> pośredni wpływ na program na uczelniach (udostępnianie materiałów, stworzenie skryptu) </li>
+    <li> pośredni wpływ na program na uczelniach (udostępnianie materiałów, stworzenie skryptu). </li>
 </ul>
 
-wartość dla nich:
+Wartość dla nich:
+
 <ul>
-    <li> dostęp do materiałów dydaktycznych wysokiej jakości </li>
-    <li> możliwość wykorzystania darmowych materiałów (np. zadań programistycznych na laboratoria) </li>
+    <li> dostęp do materiałów dydaktycznych wysokiej jakości, </li>
+    <li> możliwość wykorzystania darmowych materiałów (np. zadań programistycznych na laboratoria). </li>
 </ul>

@@ -1,26 +1,29 @@
 ---
 layout: post
-title: potencjalni pracownicy
+title: Potencjalni pracownicy
 ---
 
-ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych.
-komunikacja głównie za pomocą strony internetowej (zadania przed rekrutacją?).
-realizacja celów: pozyskanie wykwalifikowanych pracowników.
+Ludzie po studiach matematycznych, informatycznych, telekomunikacyjnych.
+Komunikacja głównie za pomocą strony internetowej (zadania przed rekrutacją?).
+Realizacja celów: pozyskanie wykwalifikowanych pracowników.
 
-wartość dla nas:
+Wartość dla nas:
+
 <ul>
-    <li> ciekawi ludzie dowiadują się o możliwości pracy u nas </li>
-    <li> większy rynek, większy wybór </li>
+    <li> ciekawi ludzie dowiadują się o możliwości pracy u nas, </li>
+    <li> większy rynek, większy wybór. </li>
 </ul>
 
-wartość dla nich:
+Wartość dla nich:
+
 <ul>
-    <li> dowiadują się o możliwości ciekawej pracy </li>
-    <li> wiedząc czym się zajmujemy, mogą zdecydować czy to ich interesuje </li>
+    <li> dowiadują się o możliwości ciekawej pracy, </li>
+    <li> wiedząc czym się zajmujemy, mogą zdecydować czy to ich interesuje. </li>
 </ul>
 
-kanały komunikacji z nimi:
+Kanały komunikacji z nimi:
+
 <ul>
-    <li> strona internetowa popularyzująca kryptografię </li>
-    <li> strona internetowa z zadaniami, które trzeba zrobić przed rekrutacją </li>
+    <li> strona internetowa popularyzująca kryptografię, </li>
+    <li> strona internetowa z zadaniami, które trzeba zrobić przed rekrutacją. </li>
 </ul>
