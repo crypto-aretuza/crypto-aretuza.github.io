@@ -106,6 +106,6 @@ strona z zadaniami:
   <li> <a href="https://cryptohack.org/" target="_blank"> cryptohack </a>. </li>
 </ul>
 
-### napisz
+### Napisz:
 
 [aleksandra.horubala@gmail.com](mailto:aleksandra.horubala@gmail.com)
