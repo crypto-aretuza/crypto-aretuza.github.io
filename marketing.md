@@ -14,9 +14,7 @@ permalink: /marketing/
 
 ### marketing
 
-etap pierwszy:
-
-chcielibyśmy mieć własną przestrzeń w internecie, na której moglibyśmy umieszczać treści merytoryczne.
+etap pierwszy: chcielibyśmy mieć własną przestrzeń w internecie, na której moglibyśmy umieszczać treści merytoryczne. pytania:
 
 <ul>
   <li> czy moglibyśmy mieć podstronę w ramach istniejącego portalu? </li>
