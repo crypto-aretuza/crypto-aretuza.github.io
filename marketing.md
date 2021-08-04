@@ -21,7 +21,7 @@ etap pierwszy: chcielibyśmy mieć własną przestrzeń w internecie, na której
   <li> kto miałby tę podstronę stworzyć? czy możemy dostarczyć projekt strony i treści merytoryczne, a ktoś po stronie marketingu zajmie się implementacją? </li>
   <li> w jakiej technologii może być robiona nasza strona? jakie są ograniczenia? </li>
   <li> czy możemy zaproponować własny wygląd strony? dostarczyć makiety lub projekt html-css? (zależy nam na prostym, ale estetycznym wyglądzie) </li>
-  <li> czy strona mogłaby być dynamiczna? (potrzeba możliwość wpisywania haseł i weryfikacji ich poprawności) </li>
+  <li> czy strona mogłaby być dynamiczna? (możliwość wpisywania haseł i weryfikacji ich poprawności) </li>
   <li> nie chcemy utrzymywać strony, ani być odpowiedzialnym za jej bezpieczeństwo. </li>
   <li> chcemy móc systematycznie rozwijać stronę, poprzez publikację treści merytorycznych, a w przyszłości nowe funkcjonalności. </li>
 </ul>
