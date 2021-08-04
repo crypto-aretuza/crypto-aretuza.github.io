@@ -1,7 +1,5 @@
 ---
-layout: page
-title: kanaly
-permalink: /kanaly/
+layout: default
 ---
 
 
@@ -13,7 +11,7 @@ permalink: /kanaly/
     <a href="{{ site.baseurl }}/marketing">marketing</a> &nbsp; &nbsp;
 </h3>
 
-### kanały komunikacji
+<p><b> kanały komunikacji </p></b>
 
 chcielibyśmy się komunikować następującymi metodami:
 
@@ -38,3 +36,18 @@ udział w wydarzeniach:
 <ul>
     <li> hackatony - opracowywanie zadań kryptograficznych, funodwanie nagród (profesjonaliści cyber) </li>
 </ul>
+
+<div class="posts">
+  {% for post in site.categories.kanaly %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">więcej</a>
+    </article>
+  {% endfor %}
+</div>
