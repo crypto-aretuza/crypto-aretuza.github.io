@@ -83,12 +83,19 @@ popularyzacja kryptografii w internecie
 <img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="height: 350px;"/>
 <img src="{{ site.baseurl }}/images/shor.jpg" alt="shor" style="height: 350px;"/>
 
+
+### wyszukiwarka podobnych stron
+
+<ul>
+  <li> <a href=" https://www.similarweb.com/" target="_blank"> wyszukiwarka podobnych stron </a> </li>
+</ul>
+
 ### inspiracje graficzne co do wyglądu strony
 
 artykuły/blog:
 
 <ul>
-  <li> <a href="  https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta </a> </li>
+  <li> <a href=" https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta </a> </li>
 </ul>
 
 strona z zadaniami:
