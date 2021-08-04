@@ -31,7 +31,7 @@ Popularyzacja kryptografii w internecie.
   <li> <a href="https://zaufanatrzeciastrona.pl/" target="_blank"> zaufana trzecia strona </a> security, </li>
   <li> <a href="https://sekurak.pl/" target="_blank"> sekurak </a> security, </li>
   <li> <a href="http://www.theamazingking.com/" target="_blank">the amazing king</a> strona z materiałami z krypto, </li>
-  <li> <a href="  https://cryptomuseum.com/" target="_blank"> cryptomuseum </a>. </li>
+  <li> <a href="  https://cryptomuseum.com/" target="_blank"> cryptomuseum</a>. </li>
 </ul>
 
 ### Strony uniwersytetów i grup badawczych:
@@ -39,7 +39,7 @@ Popularyzacja kryptografii w internecie.
 <ul>
   <li> <a href="https://www.nask.pl/" target="_blank"> NASK</a>,</li>
   <li> <a href="https://cyberpolicy.nask.pl/" target="_blank"> NASK Cyber POLICY</a>, </li>
-  <li> <a href="https://www.nsa.gov/" target="_blank"> nsa.gov </a>. </li>
+  <li> <a href="https://www.nsa.gov/" target="_blank"> nsa.gov</a>. </li>
 </ul>
 
 ### Podcasty:
@@ -58,10 +58,10 @@ Popularyzacja kryptografii w internecie.
 ### Blogi:
 
 <ul>
-  <li> <a href="https://galois.com/blog/" target="_blank"> blog Galois </a>, </li>
-  <li> <a href="https://www.cryptologie.net/" target="_blank"> cryptologie.net </a>, </li>
-  <li> <a href="  https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta </a>, </li>
-  <li> <a href="  https://www.imperialviolet.org/" target="_blank"> blog Adama Langley'a </a>. </li>
+  <li> <a href="https://galois.com/blog/" target="_blank"> blog Galois</a>, </li>
+  <li> <a href="https://www.cryptologie.net/" target="_blank"> cryptologie.net</a>, </li>
+  <li> <a href="  https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta</a>, </li>
+  <li> <a href="  https://www.imperialviolet.org/" target="_blank"> blog Adama Langley'a</a>. </li>
 </ul>
 
 ### Certyfikacja:
@@ -73,8 +73,8 @@ Popularyzacja kryptografii w internecie.
 ### MON:
 
 <ul>
-    <li><a href="https://ncbc.wp.mil.pl/pl/" target="_blank"> strona internetowa jednostki </a>, </li>
-    <li><a href="https://csirt-mon.wp.mil.pl/pl/" target="_blank"> strona internetowa CSIRT </a>, </li>
+    <li><a href="https://ncbc.wp.mil.pl/pl/" target="_blank"> strona internetowa jednostki</a>, </li>
+    <li><a href="https://csirt-mon.wp.mil.pl/pl/" target="_blank"> strona internetowa CSIRT</a>, </li>
     <li><a href="https://twitter.com/CYBER_MIL_PL?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"> tweeter </a>. </li>
 </ul>
 
@@ -87,7 +87,7 @@ Popularyzacja kryptografii w internecie.
 ### Wyszukiwarka podobnych stron:
 
 <ul>
-  <li> <a href=" https://www.similarweb.com/" target="_blank"> wyszukiwarka podobnych stron </a>. </li>
+  <li> <a href=" https://www.similarweb.com/" target="_blank"> wyszukiwarka podobnych stron</a>. </li>
 </ul>
 
 ### Inspiracje graficzne co do wyglądu strony:
@@ -95,7 +95,7 @@ Popularyzacja kryptografii w internecie.
 artykuły / blog:
 
 <ul>
-  <li> <a href=" https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta </a>, </li>
+  <li> <a href=" https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta</a>, </li>
   <li> <a href=" https://medium.com/" target="_blank"> medium </a> portal do dzielenia się wiedzą, </li>
   <li> <a href=" https://medium.com/@aiswaryamathur/understanding-fast-fourier-transform-from-scratch-to-solve-polynomial-multiplication-8018d511162f" target="_blank"> medium </a> przykładowa strona na medium. </li>
 </ul>
@@ -103,7 +103,7 @@ artykuły / blog:
 strona z zadaniami:
 
 <ul>
-  <li> <a href="https://cryptohack.org/" target="_blank"> cryptohack </a>. </li>
+  <li> <a href="https://cryptohack.org/" target="_blank"> cryptohack</a>. </li>
 </ul>
 
 ### Napisz:
