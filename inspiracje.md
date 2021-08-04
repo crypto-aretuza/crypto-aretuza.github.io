@@ -96,6 +96,8 @@ artykuły/blog:
 
 <ul>
   <li> <a href=" https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta </a> </li>
+  <li> <a href=" https://medium.com/" target="_blank"> medium </a> portal do dzielenia się wiedzą </li>
+  <li> <a href=" https://medium.com/@aiswaryamathur/understanding-fast-fourier-transform-from-scratch-to-solve-polynomial-multiplication-8018d511162f" target="_blank"> medium </a> przykładowa strona na medium </li>
 </ul>
 
 strona z zadaniami:
