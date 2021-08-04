@@ -78,10 +78,24 @@ popularyzacja kryptografii w internecie
     <li><a href="https://twitter.com/CYBER_MIL_PL?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"> tweeter </a></li>
 </ul>
 
-### graficznie
+### popularyzacja przez grafikę
 
 <img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="height: 350px;"/>
 <img src="{{ site.baseurl }}/images/shor.jpg" alt="shor" style="height: 350px;"/>
+
+### inspiracje graficzne co do wyglądu strony
+
+artykuły/blog:
+
+<ul>
+  <li> <a href="  https://martinralbrecht.wordpress.com/" target="_blank"> blog Martina Albrechta </a> </li>
+</ul>
+
+strona z zadaniami:
+
+<ul>
+  <li> <a href="https://cryptohack.org/" target="_blank">cryptohack</a></li>
+</ul>
 
 ### napisz
 
