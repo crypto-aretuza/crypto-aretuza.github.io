@@ -31,12 +31,3 @@ czego na pewno **nie chcemy**:
     <li> błędów </li>
     <li> tekstów niskiej jakości </li>
 </ul>
-
-
-### teraz
-
-<ul>
-    <li><a href="https://ncbc.wp.mil.pl/pl/" target="_blank"> strona internetowa jednostki </a></li>
-    <li><a href="https://csirt-mon.wp.mil.pl/pl/" target="_blank"> strona internetowa CSIRT </a></li>
-    <li><a href="https://twitter.com/CYBER_MIL_PL?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"> tweeter </a></li>
-</ul>

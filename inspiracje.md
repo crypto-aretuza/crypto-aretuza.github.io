@@ -66,6 +66,14 @@ popularyzacja kryptografii w internecie
   <li> WCET - Wireless Communication Engineering Technologies </li>
 </ul>
 
+### MON
+
+<ul>
+    <li><a href="https://ncbc.wp.mil.pl/pl/" target="_blank"> strona internetowa jednostki </a></li>
+    <li><a href="https://csirt-mon.wp.mil.pl/pl/" target="_blank"> strona internetowa CSIRT </a></li>
+    <li><a href="https://twitter.com/CYBER_MIL_PL?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"> tweeter </a></li>
+</ul>
+
 ### graficznie
 
 <img src="{{ site.baseurl }}/images/pq-factor.jpg" alt="pq" style="height: 350px;"/>
