@@ -27,8 +27,8 @@ popularyzacja kryptografii w internecie
 <ul>
   <li> <a href="http://www.deltami.edu.pl/" target="_blank"> delta </a> portal popularnonaukowy miesięcznika Delta </li>
   <li> <a href="https://www.nayuki.io/" target="_blank"> projekt nayuki </a> artykuły nt. matematyki, informatyki, kryptografii </li>
-  <li> <a href="https://niebezpiecznik.pl/" target="_blank"> niebezpiecznik </a> security </li
-  <li> <a href="https://zaufanatrzeciastrona.pl/" target="_blank"> zaufana trzecia strona </a> security </li
+  <li> <a href="https://niebezpiecznik.pl/" target="_blank"> niebezpiecznik </a> security </li>
+  <li> <a href="https://zaufanatrzeciastrona.pl/" target="_blank"> zaufana trzecia strona </a> security </li>
   <li> <a href="https://sekurak.pl/" target="_blank"> sekurak </a> security </li>
   <li> <a href="http://www.theamazingking.com/" target="_blank">the amazing king</a> strona z materiałami z krypto </li>
   <li> <a href="  https://cryptomuseum.com/" target="_blank"> cryptomuseum </a> </li>
