@@ -13,7 +13,7 @@ permalink: /zasoby/
     <a href="{{ site.baseurl }}/marketing">marketing</a> &nbsp; &nbsp;
 </h3>
 
-### potrzebne zasoby:
+# potrzebne zasoby:
 
 <ul>
     <li> strona internetowa </li>

@@ -12,7 +12,7 @@ permalink: /marketing/
     <a href="{{ site.baseurl }}/marketing">marketing</a> &nbsp; &nbsp;
 </h3>
 
-### marketing
+# marketing
 
 etap pierwszy: chcielibyśmy mieć własną przestrzeń w internecie, na której moglibyśmy umieszczać treści merytoryczne. pytania:
 
