@@ -12,7 +12,7 @@ permalink: /wizerunek/
     <a href="{{ site.baseurl }}/marketing">marketing</a> &nbsp; &nbsp;
 </h3>
 
-## wizerunek
+# wizerunek
 
 jak chcielibyśmy być postrzegani w sieci:
 
